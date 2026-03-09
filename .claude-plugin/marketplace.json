@@ -1,0 +1,36 @@
+{
+    "name": "efficient-tokens",
+    "owner": {
+      "name": "Yair Yair Yair",
+      "email": "micromeshdev@gmail.com",
+      "url": "https://github.com/yairyairyair"
+    },
+    "metadata": {
+      "description": "efficient-tokens - A plugin to use your context window more efficiently.",
+      "version": "0.0.1"
+    },
+    "plugins": [
+      {
+        "name": "efficient-tokens",
+        "description": "A plugin to use your context window more efficiently.",
+        "version": "0.0.1",
+        "author": {
+          "name": "Yair Yair Yair",
+          "email": "micromeshdev@gmail.com",
+          "url": "https://github.com/yairyairyair"
+        },
+        "homepage": "https://github.com/yairyairyair/efficient-tokens",
+        "repository": "https://github.com/yairyairyair/efficient-tokens",
+        "license": "Unlicense",
+        "keywords": [
+          "efficient-tokens",
+          "context-window",
+          "tokens",
+          "efficient",
+          "context"
+        ],
+        "category": "development-tools",
+        "source": "./plugins/efficient-tokens"
+      }
+    ]
+  }

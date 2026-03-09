@@ -1,0 +1,20 @@
+{
+    "name": "efficient-tokens",
+    "version": "0.0.1",
+    "description": "A plugin to use your context window more efficiently.",
+    "author": {
+      "name": "Yair Yair Yair",
+      "email": "micromeshdev@gmail.com",
+      "url": "https://github.com/yairyairyair"
+    },
+    "homepage": "https://github.com/yairyairyair/efficient-tokens",
+    "repository": "https://github.com/yairyairyair/efficient-tokens",
+    "license": "Unlicense",
+    "keywords": [
+      "efficient-tokens",
+      "context-window",
+      "tokens",
+      "efficient",
+      "context"
+    ]
+  }

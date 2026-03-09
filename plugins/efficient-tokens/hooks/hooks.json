@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "${CLAUDE_PLUGIN_ROOT}/scripts/efficient-tokens-format.sh",
+            "timeout": 10,
+            "statusMessage": "Efficient Tokens post-tool use"
+          }
+        ]
+      }
+    ]
+  }
+}
